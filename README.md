@@ -21,7 +21,7 @@
         <li>Created predictive algorithms to estimate sales performance.</li>
         <li>Generated actionable insights for prioritizing marketing efforts and targeting potential hits.</li>
     </ul>
-    <p><a href="#">Project Details</a></p>
+    <p><a href="https://github.com/carolinagles/datascience/tree/main/6.I_Python_and_Software_Engineering">Project Details</a></p>
     <hr>
     <h2>2. ZUBER CHICAGO - Ride-hailing App</h2>
     <p><strong>Date</strong>: November 2024</p>
@@ -33,7 +33,7 @@
         <li>Delivered strategic recommendations for optimizing operations and boosting customer attraction.</li>
     </ul>
     <p><strong>Technologies Used</strong>: SQL, Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook</p>
-    <p><a href="#">Project Details</a></p>
+    <p><a href="https://github.com/carolinagles/datascience/tree/main/7.Data_%20collection_%20and_storage_(SQL)">Project Details</a></p>
     <hr>
     <h2>3. Megaline: Smart vs Ultra</h2>
     <p><strong>Date</strong>: November 2024</p>
@@ -45,7 +45,7 @@
         <li>Provided insights and recommendations to improve plan strategy and customer experience.</li>
     </ul>
     <p><strong>Technologies Used</strong>: Python, Scikit-Learn, Pandas, Matplotlib, Seaborn, Jupyter Notebook</p>
-    <p><a href="#">Project Details</a></p>
+    <p><a href="https://github.com/carolinagles/datascience/tree/main/8.Introduction_to_machine_learning">Project Details</a></p>
     <hr>
     <p>Feel free to explore each project to understand how data analysis and machine learning can drive informed decision-making and strategy optimization. For more details or collaborations, please contact me.</p>
 </body>
