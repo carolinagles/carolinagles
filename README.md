@@ -9,8 +9,7 @@
     <p>Welcome to my Data Science projects portfolio! Below are some of the notable projects I have worked on, showcasing my ability to extract insights, build models, and offer strategic recommendations.</p>
     <hr>
     <h2>1. Video Games: How Can We Make Them a Success?</h2>
-    <p><strong>Date</strong>: October 2024</p>
-    <p><strong>Objective</strong>: Identify patterns that determine the success of a video game to:</p>
+     <p><strong>Objective</strong>: Identify patterns that determine the success of a video game to:</p>
     <ul>
         <li>Predict the sales performance of future games.</li>
         <li>Detect promising projects to guide effective marketing strategies.</li>
@@ -24,7 +23,6 @@
     <p><a href="https://github.com/carolinagles/datascience/tree/main/6.I_Python_and_Software_Engineering">Project Details</a></p>
     <hr>
     <h2>2. ZUBER CHICAGO - Ride-hailing App</h2>
-    <p><strong>Date</strong>: November 2024</p>
     <p><strong>Objective</strong>: This project leverages SQL, data visualization, and statistical tests to provide valuable insights for decision-making strategies.</p>
     <p><strong>Key Findings</strong>:</p>
     <ul>
@@ -36,7 +34,6 @@
     <p><a href="https://github.com/carolinagles/datascience/tree/main/7.Data_%20collection_%20and_storage_(SQL)">Project Details</a></p>
     <hr>
     <h2>3. Megaline: Smart vs Ultra</h2>
-    <p><strong>Date</strong>: November 2024</p>
     <p><strong>Objective</strong>: Help Megaline optimize plan allocation to increase customer satisfaction and maximize revenue.</p>
     <p><strong>Key Achievements</strong>:</p>
     <ul>
