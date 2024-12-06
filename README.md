@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Science Projects Portfolio</title>
 </head>
 <body>
     <h1>Data Science Projects Portfolio</h1>
