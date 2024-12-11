@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Data Science Projects Portfolio</h1>
-    <p>Welcome to my Data Science projects portfolio! Below are some of the notable projects I have worked on, showcasing my ability to extract insights, build models, and offer strategic recommendations.</p>
+    <p>Hello! I'm María Carolina, a data scientist with a multidisciplinary background in anthropology and public administration. This unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
     <hr>
     <h2>1. Video Games: How Can We Make Them a Success?</h2>
      <p><strong>Objective</strong>: Identify patterns that determine the success of a video game to:</p>
