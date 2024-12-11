@@ -60,7 +60,7 @@
 | Row 8 Cell 1| Row 8 Cell 2| Row 8 Cell 3|
 | Row 9 Cell 1| Row 9 Cell 2| Row 9 Cell 3|
 
-</details>
+</details open>
 
 </body>
 </html>
