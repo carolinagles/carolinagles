@@ -45,5 +45,16 @@
     <p><a href="https://github.com/carolinagles/datascience/tree/main/8.Introduction_to_machine_learning">Project Details</a></p>
     <hr>
     <p>Feel free to explore each project to understand how data analysis and machine learning can drive informed decision-making and strategy optimization. For more details or collaborations, please contact me.</p>
+| Column 1    | Column 2    | Column 3    |
+|-------------|-------------|-------------|
+| Row 1 Cell 1| Row 1 Cell 2| Row 1 Cell 3|
+| Row 2 Cell 1| Row 2 Cell 2| Row 2 Cell 3|
+| Row 3 Cell 1| Row 3 Cell 2| Row 3 Cell 3|
+| Row 4 Cell 1| Row 4 Cell 2| Row 4 Cell 3|
+| Row 5 Cell 1| Row 5 Cell 2| Row 5 Cell 3|
+| Row 6 Cell 1| Row 6 Cell 2| Row 6 Cell 3|
+| Row 7 Cell 1| Row 7 Cell 2| Row 7 Cell 3|
+| Row 8 Cell 1| Row 8 Cell 2| Row 8 Cell 3|
+| Row 9 Cell 1| Row 9 Cell 2| Row 9 Cell 3|
 </body>
 </html>
