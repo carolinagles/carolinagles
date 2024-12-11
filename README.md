@@ -50,14 +50,14 @@
 
 | Name                                | Project Description | Sprint Focus Description                                                                 |
 |-------------------------------------|---------------------|-----------------------------------------------------------------------------------------|
-| Introduction to Machine Learning    |                     | Introduces basic machine learning concepts, training the first model, and regression.   |
-| Data Collection and Storage         |                     | Covers SQL basics and advanced features, PySpark, and relationships between tables. Includes a project. |
-| Integrated Project 1                |                     | A project analyzing game sales data to identify success patterns and plan campaigns.    |
-| Software Development Tools          |                     | Introduces command line, Git, GitHub, and intermediate Python skills for software development. |
-| Statistical Data Analysis           |                     | Teaches descriptive statistics, probability theory, and hypothesis testing. Includes a project. |
-| Exploratory Data Analysis           |                     | Focuses on reading, visualizing data, handling missing values, filtering, data types, and transformations. |
-| Working with Data in Python         |                     | Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
-| Basic Python                        |                     | Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
+| Introduction to Machine Learning    |                     | **Introduction to Machine Learning**: basic machine learning concepts, training the first model, and regression.   |
+| Data Collection and Storage         |                     | **Data Collection and Storage**: Covers SQL basics and advanced features, PySpark, and relationships between tables. Includes a project. |
+| Integrated Project 1                |                     | **Integrated Project 1**: A project analyzing game sales data to identify success patterns and plan campaigns.    |
+| Software Development Tools          |                     | **Software Development Tools**: Introduces command line, Git, GitHub, and intermediate Python skills for software development. |
+| Statistical Data Analysis           |                     | **Statistical Data Analysis**: Teaches descriptive statistics, probability theory, and hypothesis testing. Includes a project. |
+| Exploratory Data Analysis           |                     | **Exploratory Data Analysis**: Focuses on reading, visualizing data, handling missing values, filtering, data types, and transformations. |
+| Working with Data in Python         |                     | **Working with Data in Python**: Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
+| Basic Python                        |                     | **Basic Python**: Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
 
 </details>
 
