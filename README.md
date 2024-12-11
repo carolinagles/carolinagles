@@ -45,6 +45,9 @@
     <p><a href="https://github.com/carolinagles/datascience/tree/main/8.Introduction_to_machine_learning">Project Details</a></p>
     <hr>
     <p>Feel free to explore each project to understand how data analysis and machine learning can drive informed decision-making and strategy optimization. For more details or collaborations, please contact me.</p>
+    <details>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Column 1    | Column 2    | Column 3    |
 |-------------|-------------|-------------|
 | Row 1 Cell 1| Row 1 Cell 2| Row 1 Cell 3|
@@ -56,5 +59,8 @@
 | Row 7 Cell 1| Row 7 Cell 2| Row 7 Cell 3|
 | Row 8 Cell 1| Row 8 Cell 2| Row 8 Cell 3|
 | Row 9 Cell 1| Row 9 Cell 2| Row 9 Cell 3|
+
+</details>
+
 </body>
 </html>
