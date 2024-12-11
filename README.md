@@ -48,17 +48,16 @@
     <details open>
 <summary>My top THINGS-TO-RANK</summary>
 
-| Column 1    | Column 2    | Column 3    |
-|-------------|-------------|-------------|
-| Row 1 Cell 1| Row 1 Cell 2| Row 1 Cell 3|
-| Row 2 Cell 1| Row 2 Cell 2| Row 2 Cell 3|
-| Row 3 Cell 1| Row 3 Cell 2| Row 3 Cell 3|
-| Row 4 Cell 1| Row 4 Cell 2| Row 4 Cell 3|
-| Row 5 Cell 1| Row 5 Cell 2| Row 5 Cell 3|
-| Row 6 Cell 1| Row 6 Cell 2| Row 6 Cell 3|
-| Row 7 Cell 1| Row 7 Cell 2| Row 7 Cell 3|
-| Row 8 Cell 1| Row 8 Cell 2| Row 8 Cell 3|
-| Row 9 Cell 1| Row 9 Cell 2| Row 9 Cell 3|
+| Name                                | Project Description | Sprint Focus Description                                                                 |
+|-------------------------------------|---------------------|-----------------------------------------------------------------------------------------|
+| Introduction to Machine Learning    |                     | Introduces basic machine learning concepts, training the first model, and regression.   |
+| Data Collection and Storage         |                     | Covers SQL basics and advanced features, PySpark, and relationships between tables. Includes a project. |
+| Integrated Project 1                |                     | A project analyzing game sales data to identify success patterns and plan campaigns.    |
+| Software Development Tools          |                     | Introduces command line, Git, GitHub, and intermediate Python skills for software development. |
+| Statistical Data Analysis           |                     | Teaches descriptive statistics, probability theory, and hypothesis testing. Includes a project. |
+| Exploratory Data Analysis           |                     | Focuses on reading, visualizing data, handling missing values, filtering, data types, and transformations. |
+| Working with Data in Python         |                     | Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
+| Basic Python                        |                     | Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
 
 </details>
 
