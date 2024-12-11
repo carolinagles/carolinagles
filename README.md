@@ -56,7 +56,7 @@
 | Software Development Tools          |                     | **Software Development Tools**: Introduces command line, Git, GitHub, and intermediate Python skills for software development. |
 | Statistical Data Analysis           |                     | **Statistical Data Analysis**: Teaches descriptive statistics, probability theory, and hypothesis testing. Includes a project. |
 | Exploratory Data Analysis           |                     | **Exploratory Data Analysis**: Focuses on reading, visualizing data, handling missing values, filtering, data types, and transformations. |
-| [**Let's Play Some Music!**(https://github.com/carolinagles/datascience/blob/main/2.Basic_python_II/music_notebook.ipynb) |                     | **Working with Data in Python**: Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
+| [**Let's Play Some Music!**](https://github.com/carolinagles/datascience/blob/main/2.Basic_python_II/music_notebook.ipynb) |                     | **Working with Data in Python**: Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
 | [**Store One**](https://github.com/carolinagles/datascience/blob/main/1.Basic_python/ecommerce_notebook.ipynb) |                     | **Basic Python**: Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
 
 </details>
