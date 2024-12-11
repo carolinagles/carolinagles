@@ -4,62 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Science Projects Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            background-color: #0044cc;
-            color: white;
-            text-align: center;
-            padding: 1rem 0;
-            margin: 0;
-        }
-        p {
-            text-align: center;
-            margin: 1rem 2rem;
-        }
-        details {
-            margin: 1rem 2rem;
-        }
-        summary {
-            font-weight: bold;
-            cursor: pointer;
-            padding: 0.5rem;
-            background-color: #e0e0e0;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-        table {
-            width: 95%;
-            margin: 1rem auto;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 1rem;
-            border: 1px solid #ddd;
-            text-align: left;
-        }
-        th {
-            background-color: #0044cc;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-        a {
-            color: #0044cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Data Science Projects Portfolio</h1>
