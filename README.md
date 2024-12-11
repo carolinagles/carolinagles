@@ -57,7 +57,7 @@
 | Statistical Data Analysis           |                     | **Statistical Data Analysis**: Teaches descriptive statistics, probability theory, and hypothesis testing. Includes a project. |
 | Exploratory Data Analysis           |                     | **Exploratory Data Analysis**: Focuses on reading, visualizing data, handling missing values, filtering, data types, and transformations. |
 | Working with Data in Python         |                     | **Working with Data in Python**: Covers dictionaries, functions, and using pandas for data manipulation. Includes a project on Python. |
-| Store One                        |                     | **Basic Python**: Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
+| [Store One](https://github.com/carolinagles/datascience/blob/main/1.Basic_python/ecommerce_notebook.ipynb) |                     | **Basic Python**: Introduces onboarding, Python basics (strings, lists, tuples), algorithms, and a guided case study. |
 
 </details>
 
