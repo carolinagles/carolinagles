@@ -5,13 +5,15 @@
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
         <td class="text" style="border: none;">
-            <p>Hello! I'm a data scientist with a multidisciplinary background in anthropology and public administration. My unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
+            <p>Hello! I'm María Carolina González Bernal, a data scientist with a multidisciplinary background in anthropology and public administration. My expertise lies in applying data science techniques to uncover human and cultural insights, combining quantitative and qualitative analyses to generate impactful solutions. With a deep understanding of human behavior, I analyze and interpret complex datasets to solve real-world problems.</p>
+            <p>I have experience with a variety of tools such as Python, SQL, and data visualization, and I am passionate about exploring the intersections between technology and human culture. Currently, I’m focusing on machine learning, time series analysis, and NLP, while also continuously learning new methodologies to enhance my skills.</p>
         </td>
         <td class="image" style="border: none; text-align: center;">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
         </td>
     </tr>
 </table>
+
 
 <h2>Skills & Technologies</h2>
 <table style="width: 100%; text-align: center; border: none;">
@@ -48,6 +50,7 @@
 | [Store One](https://github.com/carolinagles/datascience/blob/main/1.Basic_python/ecommerce_notebook.ipynb) | Analyzing and cleaning e-commerce data to derive actionable insights. | **Basic Python:** Algorithms and data structures. |
 
 </details>
+
 
 ---
 
