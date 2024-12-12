@@ -6,10 +6,6 @@
     <tr>
         <td class="text" style="border: none;">
             <p>Hello! I'm María Carolina, a data scientist with a multidisciplinary background in anthropology and public administration. My unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
-            <div class="contact-info" style="text-align: center;">
-                <p><strong><a href="#">LinkedIn</a></strong></p>
-                <p>Email: <strong>carolinagles@gmail.com</strong></p>
-            </div>
         </td>
         <td class="image" style="border: none; text-align: center;">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
