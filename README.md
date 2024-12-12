@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
-<h1 style="text-align: center;">Data Scientist | Anthropologist in Data | Lifelong Learner</h1>
+<h1 style="text-align: center;">Data Scientist | Anthropologist in Data | Lifelong Learner | <a href="https://github.com/carolinagles/carolinagles/blob/main/cv_en.ipynb" target="_blank">CV</a></h1>
+
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
         <td class="text" style="border: none;">
