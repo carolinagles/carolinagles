@@ -6,10 +6,11 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Data Science Projects Portfolio</h1>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90" />
+    <h1>Data Scientist</h1>
     <p>Hello! I'm María Carolina, a data scientist with a multidisciplinary background in anthropology and public administration. This unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
     <details open>
-        <summary>Explore Projects</summary>
+        <summary>Data Science Projects</summary>
         <table>
             <tr>
                 <th>Name</th>
