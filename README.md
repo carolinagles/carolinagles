@@ -55,4 +55,4 @@
 
 ---
 
-Thank you for visiting my page! Feel free to reach out to discuss data science, anthropology, or anything related to analytics. 😊
+Thank you for visiting my page! Feel free to reach out to discuss data science, anthropology, or anything related to analytics. 
