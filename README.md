@@ -1,20 +1,44 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
- <h1 style="text-align: center;">Data Scientist | Anthropologist in Data | Lifelong Learner</h1>
-   <table>
-        <tr>
-            <td class="text">
-                <p>Hello! I'm María Carolina, a data scientist with a multidisciplinary background in anthropology and public administration. My unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
-            </td>
-            <td class="image">
-                <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF">
-            </td>
-        </tr>
-    </table>
+<h1 style="text-align: center;">Data Scientist | Anthropologist in Data | Lifelong Learner</h1>
+<table>
+    <tr>
+        <td class="text">
+            <p>Hello! I'm María Carolina, a data scientist with a multidisciplinary background in anthropology and public administration. My unique perspective allows me to uncover meaningful patterns in data, connecting cultural insights with advanced analytics to create impactful solutions.</p>
+            <div class="contact-info" style="text-align: center;">
+                <p><strong><a href="#">LinkedIn</a></strong></p>
+                <p>Email: <strong>carolinagles@gmail.com</strong></p>
+            </div>
+        </td>
+        <td class="image" style="text-align: center;">
+            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
+        </td>
+    </tr>
+</table>
+
+<h2> Skills & Technologies</h2>
+<table style="width: 100%; text-align: center;">
+    <tr>
+        <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+        <td><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+        <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+        <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></td>
+        <td><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
+        <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
+        <td><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></td>
+        <td><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></td>
+    </tr>
+</table>
 
 
-## 📚 Data Science Bootcamp Projects
+## Data Science Bootcamp Projects
 
 <details open>
 <summary>Click to view my projects</summary>
@@ -31,24 +55,6 @@
 | [Store One](https://github.com/carolinagles/datascience/blob/main/1.Basic_python/ecommerce_notebook.ipynb) | Analyzing and cleaning e-commerce data to derive actionable insights. | **Basic Python:** Algorithms and data structures. |
 
 </details>
-
-## 🛠️ Skills & Technologies
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-## 📫 Contact Me
-
-- [LinkedIn](#) (Add your LinkedIn URL)
-- Email: carolinagles@gmail.com
 
 ---
 
