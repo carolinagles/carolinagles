@@ -39,7 +39,7 @@ resume
 <details open>
 <summary>Click to view my projects</summary>
 
-| Name | Project Description | Sprint Focus |
+| Project | Description | Sprint Focus |
 |------|---------------------|--------------|
 | [Megaline - Smart vs Ultra](https://github.com/carolinagles/datascience/blob/main/8.Introduction_to_machine_learning/megaline_smart_ultra_en.ipynb) | A machine learning model to classify Megaline customers into two plans, Smart or Ultra, based on their usage patterns. | **Introduction to Machine Learning:** Model training and regression. |
 | [Taxi Rides and Weather Impact in Chicago](https://github.com/carolinagles/datascience/blob/main/7.Data_%20collection_%20and_storage_(SQL)/taxis_en.ipynb) | Analyzing taxi ride data in Chicago to evaluate the impact of weather conditions on ride durations. | **Data Collection & Storage:** SQL basics, PySpark, and table relationships. |
