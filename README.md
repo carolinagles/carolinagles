@@ -1,11 +1,11 @@
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
-<h1 style="text-align: center;">Data Scientist | <a href="https://carolinagles.github.io/mypage/"target="_blank" "style="color: black;>Resume</a></h1>resume 
+<h1 style="text-align: center;">Data Scientist | <a href="https://carolinagles.github.io/mypage/" target="_blank" style="color: black;">Resume</a></h1>
+
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
         <td class="text" style="border: none;">
-        <p>Hello! I'm a data scientist with a multidisciplinary background in anthropology and public administration. My expertise lies in applying data science techniques to uncover human and cultural insights, combining quantitative and qualitative analyses to generate impactful solutions. With a deep understanding of human behavior, I analyze and interpret complex datasets to solve real-world problems. <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.3em;">Read more</a></p>
+            <p>Hello! I'm a data scientist with a multidisciplinary background in anthropology and public administration. My expertise lies in applying data science techniques to uncover human and cultural insights, combining quantitative and qualitative analyses to generate impactful solutions. With a deep understanding of human behavior, I analyze and interpret complex datasets to solve real-world problems. <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more</a></p>
             <p>I have experience with a variety of tools such as Python, SQL, and data visualization, and I am passionate about exploring the intersections between technology and human culture. Currently, I’m focusing on developing my skills in machine learning, time series analysis, and NLP.</p>
         </td>
         <td class="image" style="border: none; text-align: center;">
@@ -13,6 +13,7 @@
         </td>
     </tr>
 </table>
+
 
 
 <h2>Skills & Technologies</h2>
