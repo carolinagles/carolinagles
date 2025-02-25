@@ -36,11 +36,16 @@
 
 ## Data Science Bootcamp Projects
 
+Here is your updated project table with the three new projects added at the top:
+
 <details open>
 <summary>Click to view my projects</summary>
 
 | Project | Description | Sprint Focus |
 |------|---------------------|--------------|
+| [Sweet Lift Taxi](https://github.com/carolinagles/datascience/blob/main/13.Time_series/Sweet_lift_taxi_en.ipynb) | Taxi order prediction model for airports to optimize driver availability during peak hours based on historical data. | **Time Series:** Time series analysis and forecasting. |
+| [Rusty Bargain](https://github.com/carolinagles/datascience/blob/main/12.Numerical_methods/Rusty_bargain_en.ipynb) | Used car market value prediction model for the Rusty Bargain app, helping users determine vehicle value based on history and specifications. | **Numerical Methods:** Gradient descent, gradient boosting, algorithm analysis. |
+| [Sure Tomorrow](https://github.com/carolinagles/datascience/blob/main/11.Linear_algebra/Sure_tomorrow_en.ipynb) | Prediction model for the insurance company Sure Tomorrow to improve operations and decision-making using machine learning. | **Linear Algebra:** Vectors, matrices, and linear regression. |
 | [In Search of the Next 200 Oil Wells](https://github.com/carolinagles/datascience/blob/main/10.Machine_Learning_in_Business/OilyGiant_Company_en.ipynb) | Finding the best locations for new oil wells using geological data. | **Machine Learning in Business:** Business Metrics, Implementing New Functionality, Data Collection, Soft Skills Lessons: Business Thinking & Problem Solving. |  
 | [Customer Churn Prediction for Beta Bank](https://github.com/carolinagles/datascience/blob/main/9.Supervised_learning/Beta_bank_en.ipynb) | Predicting whether a Beta Bank customer will leave soon. | **Supervised Learning:** Feature Preparation, Classification Metrics, Imbalanced Classification, Regression Metrics, Soft Skills Lessons: Task Management. |  
 | [Megaline - Smart vs Ultra](https://github.com/carolinagles/datascience/blob/main/8.Introduction_to_machine_learning/megaline_smart_ultra_en.ipynb) | A machine learning model to classify Megaline customers into two plans, Smart or Ultra, based on their usage patterns. | **Introduction to Machine Learning:** Model training and regression. |
