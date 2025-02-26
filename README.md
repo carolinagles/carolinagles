@@ -1,18 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
 <h1 style="text-align: center;">Data Scientist | <a href="https://carolinagles.github.io/mypage/" target="_blank" style="color: black;">Resume</a></h1>
-
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
         <td class="text" style="border: none;">
-            <p>Hello! I'm a data scientist with a multidisciplinary background in anthropology and public administration. My expertise lies in applying data science techniques to uncover human and cultural insights, combining quantitative and qualitative analyses to generate impactful solutions. With a deep understanding of human behavior, I analyze and interpret complex datasets to solve real-world problems. <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more</a></p>
-            <p>I have experience with a variety of tools such as Python, SQL, and data visualization, and I am passionate about exploring the intersections between technology and human culture. Currently, I’m focusing on developing my skills in machine learning, time series analysis, and NLP.</p>
+            <p>Hello! I'm a <strong>Data Scientist</strong> with a unique blend of <strong>technical expertise and behavioral insights</strong>, thanks to my background in anthropology and public administration. I specialize in applying <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong> to solve complex business challenges and drive data-informed decision-making.</p>
+
+            <p>With <strong>Python, SQL, and data visualization</strong> as my core tools, I transform raw data into actionable insights that help organizations <strong>optimize operations, enhance customer experiences, and uncover market trends</strong>. My ability to bridge <strong>quantitative analysis with human behavior</strong> allows me to approach problems from a strategic and data-driven perspective.</p>
+
+            <p>I thrive in fast-paced environments where data science fuels <strong>business growth, efficiency, and innovation</strong>. <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more</a></p>
         </td>
         <td class="image" style="border: none; text-align: center;">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
         </td>
     </tr>
 </table>
+
 
 
 
