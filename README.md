@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada de tu perfil de GitHub. He optimizado la redacción para que sea más atractiva para empleadores y colaboradores, destacando tu impacto en el mundo empresarial y la ciencia de datos.  
-
----
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
 <h1 style="text-align: center;">Data Scientist | <a href="https://carolinagles.github.io/mypage/" target="_blank" style="color: black;">Resume</a></h1>
@@ -9,13 +5,11 @@ Aquí tienes una versión mejorada de tu perfil de GitHub. He optimizado la reda
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
         <td class="text" style="border: none;">
-            <p>👋 Hello! I’m a <strong>Data Scientist</strong> with a unique blend of <strong>technical expertise and behavioral insights</strong>, combining data-driven strategies with a deep understanding of human behavior.</p>
+            <p>Hello! I'm a <strong>Data Scientist</strong> with a unique blend of <strong>technical expertise and behavioral insights</strong>, thanks to my background in anthropology and public administration. I use <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong> to transform data into strategic business solutions.</p>
 
-            <p>My expertise lies in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>, helping businesses turn raw data into actionable strategies. With a solid foundation in <strong>Python, SQL, and data visualization</strong>, I develop data-driven solutions that <strong>optimize operations, improve customer experiences, and uncover hidden market trends</strong>.</p>
+            <p>With a strong foundation in <strong>Python, SQL, and data visualization</strong>, I specialize in extracting actionable insights that help organizations <strong>optimize operations, enhance customer experiences, and uncover market trends</strong>. My interdisciplinary approach bridges <strong>quantitative analysis with human behavior</strong>, allowing me to tackle complex challenges from both a data-driven and human-centered perspective.</p>
 
-            <p>What sets me apart? My ability to bridge <strong>quantitative analysis with human-centric insights</strong>, bringing a strategic perspective to complex data challenges.</p>
-
-            <p>🚀 I thrive in dynamic environments where **data science drives business growth, efficiency, and innovation**. Let’s connect and transform data into impact! <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more</a></p>
+            <p>I thrive in dynamic environments where **data science drives business growth, efficiency, and innovation**. Let's connect and explore how we can turn data into impact! <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more</a></p>
         </td>
         <td class="image" style="border: none; text-align: center;">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
