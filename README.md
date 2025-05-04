@@ -55,11 +55,6 @@
 
 </details>
 
-
-Aquí tienes la misma tabla en español:
-
----
-
 ## 📊 Proyectos Destacados de Ciencia de Datos
 
 <details closed>
@@ -80,11 +75,6 @@ Aquí tienes la misma tabla en español:
 | [🎮 Predicción de Éxito en Videojuegos](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games_es.ipynb)                   | Identifiqué factores clave que influyen en las ventas de videojuegos.                                           | **EDA & Modelado Predictivo**                      |
 
 </details>
-
----
-
-¿Quieres que también reemplace el contenido original en tu repositorio o archivo personal por esta versión en español?
-
 
 
 ## 📩 Let's Connect!  
