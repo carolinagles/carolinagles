@@ -6,7 +6,7 @@
     <tr>
         <td class="text" style="border: none;">
             <p>Hello! I'm a <strong>Data Scientist</strong> with a unique blend of <strong>technical expertise and behavioral insights</strong>, thanks to my background in anthropology and public administration. I use <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong> to transform data into strategic business solutions.</p>
-            <p>With a strong foundation in <strong>Python, SQL, and data visualization</strong>, I specialize in extracting actionable insights that help organizations <strong>optimize operations, enhance customer experiences, and uncover market trends</strong>. My interdisciplinary approach bridges <strong>quantitative analysis with human behavior</strong>, allowing me to tackle complex challenges from both a data-driven and human-centered perspective.</p>
+            <p>With a strong foundation in <strong>Python, SQL, and data visualization</strong>, I specialize in extracting actionable insights that help organizations <strong>optimize operations, enhance customer experiences, and uncover market trends</strong>. My interdisciplinary approach bridges <strong>quantitative analysis with human behavior</strong>, allowing me to tackle complex challenges from both a data driven and human centered perspective.</p>
             <p>I have also successfully completed the <strong>Data Science course</strong> by Triple Ten, further solidifying my skills in the field.</p>
             <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more about Anthropology and Data Science</a>
         </td>
