@@ -86,7 +86,7 @@
 
 
 ## Let's Connect!  
-I’m always excited to discuss **Data Science, AI, and Analytics**. 
+I’m always excited to discuss **Data Science, AI, and Analytics**.             
 Feel free to reach out!  
 
 **Email:** carolinagles@gmail.com  
