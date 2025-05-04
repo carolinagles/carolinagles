@@ -86,7 +86,8 @@
 
 
 ## Let's Connect!  
-I’m always excited to discuss **data science, AI, and analytics**. Feel free to reach out!  
+I’m always excited to discuss **Data Science, AI, and Analytics**. 
+Feel free to reach out!  
 
 **Email:** carolinagles@gmail.com  
 **LinkedIn:** [Carolina González](https://www.linkedin.com/in/carolinagles/)  
