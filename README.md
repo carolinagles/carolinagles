@@ -89,6 +89,6 @@
 I’m always excited to discuss **Data Science, AI, and Analytics**.             
 Feel free to reach out!  
 
-**Email:** carolinagles@gmail.com  
+**Email:** Carolinagles@gmail.com  
 **LinkedIn:** [Carolina González](https://www.linkedin.com/in/carolinagles/)  
 **Portfolio:** [My Projects](https://carolinagles.github.io/mypage/#projects)  
