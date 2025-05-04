@@ -56,6 +56,35 @@
 </details>
 
 
+Aquí tienes la misma tabla en español:
+
+---
+
+## 📊 Proyectos Destacados de Ciencia de Datos
+
+<details closed>
+<summary>🔍 Haz clic para explorar mi trabajo</summary>
+
+| 🚀 Proyecto                                                                                                                                                      | 📝 Descripción                                                                                                  | 📌 Enfoque                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [📞 Predicción de Cancelación en Interconnect](https://github.com/carolinagles/datascience/blob/main/15.Computer_vision/15.Computer_vision_es.ipynb)             | Desarrollé un modelo de predicción de cancelación para una empresa de telecomunicaciones.                       | **Clasificación Binaria & Gradient Boosting**      |
+| [🧑‍🦱 Estimación de Edad con Visión Computacional](https://github.com/carolinagles/datascience/blob/main/16.%20Final_proyect/16.Final_Proyect_es.ipynb)         | Creé un modelo para estimar la edad a partir de imágenes y apoyar el cumplimiento de leyes de venta de alcohol. | **Visión Computacional & CNN**                     |
+| [🎬 Film Junky Union](https://github.com/carolinagles/datascience/blob/main/14.Machine_learning_for_texts/Film_%20junky_union_es.ipynb)                          | Desarrollé un modelo de análisis de sentimientos para clasificar reseñas de IMDB.                               | **NLP & Clasificación de Texto**                   |
+| [🚕 Sweet Lift Taxi](https://github.com/carolinagles/datascience/blob/main/13.Time_series/Sweet_lift_taxi_es.ipynb)                                              | Construí un modelo para predecir la demanda de taxis en aeropuerto y optimizar la disponibilidad.               | **Series Temporales**                              |
+| [🚗 Rusty Bargain](https://github.com/carolinagles/datascience/blob/main/12.Numerical_methods/Rusty_bargain_es.ipynb)                                            | Desarrollé un modelo para predecir precios de autos usados para la app Rusty Bargain.                           | **Regresión & Gradient Boosting**                  |
+| [🏦 Sure Tomorrow](https://github.com/carolinagles/datascience/blob/main/11.Linear_algebra/Sure_tomorrow_es.ipynb)                                               | Modelo de machine learning para mejorar la evaluación de riesgos en una aseguradora.                            | **Regresión Lineal & Análisis de Negocios**        |
+| [🛢️ Optimización de Pozos Petroleros](https://github.com/carolinagles/datascience/blob/main/10.Machine_Learning_in_Business/OilyGiant_Company_es.ipynb)         | Identifiqué las mejores ubicaciones para nuevos pozos mediante ML.                                              | **ML para Negocios**                               |
+| [🏦 Predicción de Cancelación en Beta Bank](https://github.com/carolinagles/datascience/blob/main/9.Supervised_learning/Beta_bank_es.ipynb)                      | Modelo para predecir la cancelación de clientes y mejorar estrategias de retención.                             | **Aprendizaje Supervisado & Datos Desbalanceados** |
+| [📞 Clasificación de Planes en Megaline](https://github.com/carolinagles/datascience/blob/main/8.Introduction_to_machine_learning/megaline_smart_ultra_es.ipynb) | Clasifiqué a los clientes en los planes más adecuados usando ML.                                                | **Clasificación & Clustering**                     |
+| [🌦️ Impacto del Clima en Taxis](https://github.com/carolinagles/datascience/blob/main/7.Data_%20collection_%20and_storage_%28SQL%29/taxis_es.ipynb)             | Analicé cómo el clima afecta la duración de viajes en taxi.                                                     | **SQL & Análisis de Datos**                        |
+| [🎮 Predicción de Éxito en Videojuegos](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games_es.ipynb)                   | Identifiqué factores clave que influyen en las ventas de videojuegos.                                           | **EDA & Modelado Predictivo**                      |
+
+</details>
+
+---
+
+¿Quieres que también reemplace el contenido original en tu repositorio o archivo personal por esta versión en español?
+
 
 
 ## 📩 Let's Connect!  
