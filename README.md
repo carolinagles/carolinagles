@@ -39,18 +39,22 @@
 <details closed>
 <summary>🔍 Click to explore my work</summary>
 
-| 🚀 Project | 📝 Description | 📌 Focus |
-|------|---------------------|--------------|
-| [🚕 Sweet Lift Taxi](https://github.com/carolinagles/datascience/blob/main/13.Time_series/Sweet_lift_taxi_en.ipynb) | Developed a predictive model for airport taxi demand to optimize driver availability. | **Time Series Forecasting** |
-| [🚗 Rusty Bargain](https://github.com/carolinagles/datascience/blob/main/12.Numerical_methods/Rusty_bargain_en.ipynb) | Built a used car price prediction model for the Rusty Bargain app. | **Regression & Gradient Boosting** |
-| [🏦 Sure Tomorrow](https://github.com/carolinagles/datascience/blob/main/11.Linear_algebra/Sure_tomorrow_en.ipynb) | Machine learning model for an insurance company to improve risk assessment. | **Linear Regression & Business Analytics** |
-| [🛢️ Oil Wells Optimization](https://github.com/carolinagles/datascience/blob/main/10.Machine_Learning_in_Business/OilyGiant_Company_en.ipynb) | Identified the best locations for new oil wells using ML. | **Machine Learning for Business** |  
-| [🏦 Beta Bank Churn Prediction](https://github.com/carolinagles/datascience/blob/main/9.Supervised_learning/Beta_bank_en.ipynb) | Customer churn prediction model to improve retention strategies. | **Supervised Learning & Imbalanced Data** |  
-| [📞 Megaline Plan Classification](https://github.com/carolinagles/datascience/blob/main/8.Introduction_to_machine_learning/megaline_smart_ultra_en.ipynb) | Developed a model to classify telecom customers into optimal plans. | **ML Classification & Clustering** |
-| [🌦️ Taxi & Weather Impact](https://github.com/carolinagles/datascience/blob/main/7.Data_%20collection_%20and_storage_(SQL)/taxis_en.ipynb) | Analyzed the effect of weather on taxi ride durations. | **SQL & Data Analysis** |
-| [🎮 Video Game Success Prediction](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games.ipynb) | Identified key factors influencing video game sales. | **EDA & Predictive Modeling** |
+| 🚀 Project                                                                                                                                                | 📝 Description                                                                                            | 📌 Focus                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [📞 Interconnect Churn Prediction](https://github.com/carolinagles/datascience/blob/main/15.Computer_vision/15.Computer_vision_en.ipynb)                  | Developed a churn prediction model for a telecom company to retain customers.                             | **Binary Classification & Gradient Boosting** |
+| [🧑‍🦱 Age Estimation Using CV](https://github.com/carolinagles/datascience/blob/main/16.%20Final_proyect/16.Final_Proyect_en.ipynb)                      | Built a computer vision model to estimate age from images and support compliance with alcohol sales laws. | **Computer Vision & CNN**                     |
+| [🎬 Film Junky Union](https://github.com/carolinagles/datascience/blob/main/14.Machine_learning_for_texts/Film_%20junky_union_en.ipynb)                   | Created a sentiment analysis model to classify IMDB reviews as positive or negative.                      | **NLP & Text Classification**                 |
+| [🚕 Sweet Lift Taxi](https://github.com/carolinagles/datascience/blob/main/13.Time_series/Sweet_lift_taxi_en.ipynb)                                       | Developed a predictive model for airport taxi demand to optimize driver availability.                     | **Time Series Forecasting**                   |
+| [🚗 Rusty Bargain](https://github.com/carolinagles/datascience/blob/main/12.Numerical_methods/Rusty_bargain_en.ipynb)                                     | Built a used car price prediction model for the Rusty Bargain app.                                        | **Regression & Gradient Boosting**            |
+| [🏦 Sure Tomorrow](https://github.com/carolinagles/datascience/blob/main/11.Linear_algebra/Sure_tomorrow_en.ipynb)                                        | Machine learning model for an insurance company to improve risk assessment.                               | **Linear Regression & Business Analytics**    |
+| [🛢️ Oil Wells Optimization](https://github.com/carolinagles/datascience/blob/main/10.Machine_Learning_in_Business/OilyGiant_Company_en.ipynb)            | Identified the best locations for new oil wells using ML.                                                 | **Machine Learning for Business**             |
+| [🏦 Beta Bank Churn Prediction](https://github.com/carolinagles/datascience/blob/main/9.Supervised_learning/Beta_bank_en.ipynb)                           | Customer churn prediction model to improve retention strategies.                                          | **Supervised Learning & Imbalanced Data**     |
+| [📞 Megaline Plan Classification](https://github.com/carolinagles/datascience/blob/main/8.Introduction_to_machine_learning/megaline_smart_ultra_en.ipynb) | Developed a model to classify telecom customers into optimal plans.                                       | **ML Classification & Clustering**            |
+| [🌦️ Taxi & Weather Impact](https://github.com/carolinagles/datascience/blob/main/7.Data_%20collection_%20and_storage_%28SQL%29/taxis_en.ipynb)           | Analyzed the effect of weather on taxi ride durations.                                                    | **SQL & Data Analysis**                       |
+| [🎮 Video Game Success Prediction](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games.ipynb)                 | Identified key factors influencing video game sales.                                                      | **EDA & Predictive Modeling**                 |
 
 </details>
+
 
 
 
