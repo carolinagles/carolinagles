@@ -34,7 +34,7 @@
 
 
 
-## 📊 Featured Data Science Projects  
+## 📊 Data Science Projects  
 
 <details closed>
 <summary>🔍 Click to explore my work</summary>
@@ -55,7 +55,7 @@
 
 </details>
 
-## 📊 Proyectos Destacados de Ciencia de Datos
+## 📊 Proyectos de Ciencia de Datos
 
 <details closed>
 <summary>🔍 Haz clic para explorar mi trabajo</summary>
