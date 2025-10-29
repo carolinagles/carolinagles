@@ -12,7 +12,7 @@
 
 <h1 align="center">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
 
-Hi there! I'm **María Carolina González Bernal** — a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
+Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
 
 Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
 
@@ -22,7 +22,7 @@ Outside of data work, I love watching tennis, discovering new music, experimenti
 
 ---
 
-¡Hola! Soy **María Carolina González Bernal**, **Científica de Datos** apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en **antropología y administración pública**, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.
+¡Hola! Soy **María Carolina**, **Científica de Datos** apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en **antropología y administración pública**, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.
 
 Actualmente estudio la **Maestría en Ciencia de Datos, Big Data y Analítica de Negocios** en la **Universidad Complutense de Madrid**, mientras sigo fortaleciendo mis conocimientos en **aprendizaje automático, series temporales y procesamiento de lenguaje natural (NLP)**.
 
