@@ -5,10 +5,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carolinagles/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:carolinaglezbernal@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-site.com)
+
+<h1 align="center">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
+
 <table>
   <tr>
     <td width="60%" valign="top">
-      
+      Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
+
+Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
+
+I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
+
+Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
    </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" 
@@ -16,18 +25,7 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-<h1 align="center">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
-
-Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
-
-Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
-
-I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
-
-Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
 
 <details closed>
 <summary>Sobre mí</summary>
