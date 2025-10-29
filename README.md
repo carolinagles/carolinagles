@@ -4,20 +4,30 @@
 <table style="border: none; width: 100%; text-align: center;">
   <tr>
     <td class="text" style="border: none;">
-      <p>Hello! I'm a <strong>Data Scientist</strong> with a unique blend of <strong>technical expertise and behavioral insight</strong>, shaped by my background in anthropology and public administration. I apply <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong> to transform complex data into actionable business strategies.</p>
-      <p>With strong proficiency in <strong>Python, SQL, and data visualization</strong>, I specialize in delivering data-driven insights that help organizations <strong>optimize operations, enhance customer experience, and identify market trends</strong>. My interdisciplinary approach connects <strong>quantitative analysis with human behavior</strong>, providing a holistic perspective to solve complex problems.</p>
-      <p>I have successfully completed the <strong>Data Science Bootcamp</strong> by TripleTen and continue advancing my expertise in <strong>AI, predictive modeling, and business analytics</strong>.</p>
+      <p>Hi there! I'm <strong>María Carolina González Bernal</strong> — a <strong>Data Scientist</strong> who loves finding stories behind data. My background in <strong>anthropology and public administration</strong> helps me combine technical skills with a deep understanding of people and their behaviors.</p>
+
+      <p>Right now, I'm studying my <strong>Master’s in Data Science, Big Data & Business Analytics</strong> at the <strong>Complutense University of Madrid</strong>, while also continuing to grow my expertise in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
+
+      <p>I enjoy using <strong>Python, SQL, and data visualization</strong> to turn raw data into meaningful insights that support smarter decisions and creative solutions. I’m curious by nature, analytical by training, and passionate about using data to make a positive impact.</p>
+
+      <p>When I’m not analyzing datasets, you’ll probably find me learning something new about AI, exploring social trends through data, or finding connections between technology and human behavior.</p>
+
       <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more about Anthropology and Data Science</a>
     </td>
     <td class="image" style="border: none; text-align: center;">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
     </td>
   </tr>
+
   <tr>
     <td colspan="2" style="border: none; text-align: center;">
-      <p>¡Hola! Soy una <strong>Científica de Datos</strong> con una combinación única de <strong>habilidades técnicas y comprensión del comportamiento humano</strong>, gracias a mi formación en antropología y administración pública. Aplico <strong>aprendizaje automático, pronóstico de series temporales y procesamiento de lenguaje natural (NLP)</strong> para transformar datos complejos en estrategias empresariales efectivas.</p>
-      <p>Con una sólida base en <strong>Python, SQL y visualización de datos</strong>, me especializo en generar conocimientos basados en datos que ayudan a las organizaciones a <strong>optimizar operaciones, mejorar la experiencia del cliente e identificar tendencias de mercado</strong>. Mi enfoque interdisciplinario conecta el <strong>análisis cuantitativo con la comprensión del comportamiento humano</strong>, ofreciendo una perspectiva integral para resolver desafíos complejos.</p>
-      <p>He completado con éxito el <strong>Bootcamp de Ciencia de Datos</strong> de TripleTen y continúo fortaleciendo mis conocimientos en <strong>IA, modelado predictivo y analítica de negocios</strong>.</p>
+      <p>¡Hola! Soy <strong>María Carolina González Bernal</strong>, <strong>Científica de Datos</strong> apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en <strong>antropología y administración pública</strong>, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.</p>
+
+      <p>Actualmente estudio la <strong>Maestría en Ciencia de Datos, Big Data y Analítica de Negocios</strong> en la <strong>Universidad Complutense de Madrid</strong>, mientras sigo fortaleciendo mis conocimientos en <strong>aprendizaje automático, series temporales y procesamiento de lenguaje natural (NLP)</strong>.</p>
+
+      <p>Disfruto trabajar con <strong>Python, SQL y visualización de datos</strong> para convertir información compleja en ideas claras que impulsen decisiones inteligentes y estrategias creativas. Soy curiosa, analítica y me motiva usar los datos para generar un impacto positivo.</p>
+
+      <p>Cuando no estoy analizando datos, probablemente estoy aprendiendo algo nuevo sobre inteligencia artificial, explorando tendencias sociales o conectando la tecnología con el comportamiento humano.</p>
     </td>
   </tr>
 </table>
