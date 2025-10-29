@@ -2,7 +2,6 @@
 
 <div align="center">
 
-# María Carolina González Bernal 
 ### Data Scientist | Predictive Modeling | Data Analysis & Visualization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carolinagles/)
