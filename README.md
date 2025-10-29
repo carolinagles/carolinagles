@@ -11,10 +11,13 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
-Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
-I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
-Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
+     <p>Hi there! I'm <strong>María Carolina</strong> a <strong>Data Scientist</strong> passionate about uncovering stories hidden in data. My background in <strong>anthropology and public administration</strong> allows me to combine technical expertise with a deep understanding of human behavior.</p>
+
+<p>Currently, I'm pursuing my <strong>Master's in Data Science, Big Data & Business Analytics</strong> at the <strong>Complutense University of Madrid</strong>, while expanding my skills in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
+
+<p>I enjoy using <strong>Python, SQL, and data visualization</strong> to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.</p>
+
+<p>Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.</p>
    </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" 
