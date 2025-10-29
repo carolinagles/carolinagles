@@ -18,9 +18,7 @@ Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analy
 
 I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
 
-When I'm not analyzing datasets, you'll find me learning new AI techniques, exploring social trends through data, or connecting technology with human behavior.
-
-[🔗 Read more about Anthropology and Data Science](https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb)
+Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
 
 ---
 
@@ -30,7 +28,7 @@ Actualmente estudio la **Maestría en Ciencia de Datos, Big Data y Analítica de
 
 Disfruto trabajar con **Python, SQL y visualización de datos** para convertir información compleja en ideas claras que impulsen decisiones inteligentes y estrategias creativas. Soy curiosa, analítica y me motiva usar los datos para generar un impacto positivo.
 
-Cuando no estoy analizando datos, probablemente estoy aprendiendo algo nuevo sobre inteligencia artificial, explorando tendencias sociales o conectando la tecnología con el comportamiento humano.
+Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, experimentar con la cocina, sumergirme en temas interesantes y aprender alemán. 
 
 ## Skills & Technologies  
 <table style="width: 100%; text-align: center; border: none;">
