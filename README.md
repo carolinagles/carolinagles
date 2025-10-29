@@ -96,12 +96,3 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 | [ Predicción de Éxito en Videojuegos](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games_es.ipynb)                   | Identifiqué factores clave que influyen en las ventas de videojuegos.                                           | **EDA & Modelado Predictivo**                      |
 
 </details>
-
-
-## Let's Connect!  
-I’m always excited to discuss **Data Science, AI, and Analytics**.             
-Feel free to reach out!  
-
-**Email:** Carolinagles@gmail.com  
-**LinkedIn:** [Carolina González](https://www.linkedin.com/in/carolinagles/)  
-**Portfolio:** [My Projects](https://carolinagles.github.io/mypage/#projects)  
