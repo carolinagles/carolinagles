@@ -13,7 +13,7 @@
     <td width="60%" valign="top">
      <p>Hi there! I'm <strong>María Carolina</strong> a <strong>Data Scientist</strong> passionate about uncovering stories hidden in data. My background in <strong>anthropology and public administration</strong> allows me to combine technical expertise with a deep understanding of human behavior.</p>
 
-<p>Currently, I'm pursuing my <strong>Master's in Data Science, Big Data & Business Analytics</strong> at the <strong>Complutense University of Madrid</strong>, while expanding my skills in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
+<p>Currently, I'm pursuing my <strong>Master's in Data Science, Big Data & Business Analytics</strong> - Online at the <strong>Complutense University of Madrid</strong>, while expanding my skills in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
 
 <p>I enjoy using <strong>Python, SQL, and data visualization</strong> to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.</p>
 
