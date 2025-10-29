@@ -21,6 +21,8 @@ I enjoy using **Python, SQL, and data visualization** to transform raw data into
 Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
 
 ---
+<details closed>
+<summary>Sobre mí</summary>
 
 ¡Hola! Soy **María Carolina**, **Científica de Datos** apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en **antropología y administración pública**, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.
 
@@ -29,6 +31,7 @@ Actualmente estudio la **Maestría en Ciencia de Datos, Big Data y Analítica de
 Disfruto trabajar con **Python, SQL y visualización de datos** para convertir información compleja en ideas claras que impulsen decisiones inteligentes y estrategias creativas. Soy curiosa, analítica y me motiva usar los datos para generar un impacto positivo.
 
 Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, experimentar con la cocina, sumergirme en temas interesantes y aprender alemán. 
+</details>
 
 ## Skills & Technologies  
 <table style="width: 100%; text-align: center; border: none;">
