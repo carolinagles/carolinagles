@@ -10,9 +10,7 @@
 
 </div>
 
-## 👋 About Me
-
-I'm a **Data Scientist** with a unique background in **anthropology and public administration**, bringing a human-centered approach to data analysis and machine learning. I'm passionate about uncovering the stories hidden within data and transforming complex information into actionable insights that drive meaningful decisions.
+## I'm a **Data Scientist** with a unique background in **anthropology and public administration**, bringing a human-centered approach to data analysis and machine learning. I'm passionate about uncovering the stories hidden within data and transforming complex information into actionable insights that drive meaningful decisions.
 
 **Currently:** Pursuing my Master's in **Data Science, Big Data & Business Analytics** at **Complutense University of Madrid**
 ## Skills & Technologies  
