@@ -40,22 +40,31 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 </details>
 
 ## Tech Stack
+<p>Here are some of the main tools and libraries I use for data analysis, machine learning, and visualization:</p>
 <table style="width: 100%; text-align: center; border: none;">
-    <tr>
-        <td style="border: none;"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></td>
-           <td style="border: none;"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></td>
-        <td style="border: none;"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></td>
-    </tr>
+  <tr>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logoColor=white" alt="Statsmodels"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge&logoColor=white" alt="LightGBM"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/XGBoost-E74C3C?style=for-the-badge&logoColor=white" alt="XGBoost"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"></td>
+  </tr>
 </table>
-
-
 
 ## Data Science Projects  
 
