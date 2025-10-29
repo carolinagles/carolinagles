@@ -39,7 +39,7 @@ Disfruto trabajar con **Python, SQL y visualización de datos** para convertir i
 Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, experimentar con la cocina, sumergirme en temas interesantes y aprender alemán. 
 </details>
 
-## Skills & Technologies  
+## Tech Stack
 <table style="width: 100%; text-align: center; border: none;">
     <tr>
         <td style="border: none;"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
