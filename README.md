@@ -60,7 +60,7 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 ## Data Science Projects  
 
 <details closed>
-<summary>🔍 Click to explore my work</summary>
+<summary>🔍 Explore my work</summary>
 
 | Project                                                                                                                                                | Description                                                                                            |  Focus                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
