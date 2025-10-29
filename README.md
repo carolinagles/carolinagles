@@ -12,11 +12,8 @@
   <tr>
     <td width="60%" valign="top">
       Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
-
 Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
-
 I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
-
 Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
    </td>
     <td width="40%" valign="top" align="center">
