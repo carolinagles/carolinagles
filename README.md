@@ -20,7 +20,6 @@ I enjoy using **Python, SQL, and data visualization** to transform raw data into
 
 Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
 
----
 <details closed>
 <summary>Sobre mí</summary>
 
