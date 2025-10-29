@@ -1,26 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
-
 <h1 style="text-align: center;">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
-<table style="border: none; width: 100%; text-align: center;">
+
+<table style="border: none; width: 100%;">
   <tr>
-    <td class="text" style="border: none;">
-      <p>Hi there! I'm <strong>María Carolina González Bernal</strong> — a <strong>Data Scientist</strong> who loves finding stories behind data. My background in <strong>anthropology and public administration</strong> helps me combine technical skills with a deep understanding of people and their behaviors.</p>
+    <td style="border: none; vertical-align: top; width: 60%; padding-right: 20px;">
+      
+      <p>Hi there! I'm <strong>María Carolina González Bernal</strong> — a <strong>Data Scientist</strong> passionate about uncovering stories hidden in data. My background in <strong>anthropology and public administration</strong> allows me to combine technical expertise with a deep understanding of human behavior.</p>
 
-      <p>Right now, I'm studying my <strong>Master’s in Data Science, Big Data & Business Analytics</strong> at the <strong>Complutense University of Madrid</strong>, while also continuing to grow my expertise in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
+      <p>Currently, I’m pursuing my <strong>Master’s in Data Science, Big Data & Business Analytics</strong> at the <strong>Complutense University of Madrid</strong>, while expanding my skills in <strong>machine learning, time series forecasting, and natural language processing (NLP)</strong>.</p>
 
-      <p>I enjoy using <strong>Python, SQL, and data visualization</strong> to turn raw data into meaningful insights that support smarter decisions and creative solutions. I’m curious by nature, analytical by training, and passionate about using data to make a positive impact.</p>
+      <p>I enjoy using <strong>Python, SQL, and data visualization</strong> to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.</p>
 
-      <p>When I’m not analyzing datasets, you’ll probably find me learning something new about AI, exploring social trends through data, or finding connections between technology and human behavior.</p>
+      <p>When I’m not analyzing datasets, you’ll find me learning new AI techniques, exploring social trends through data, or connecting technology with human behavior.</p>
 
-      <a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb" style="font-size: 0.8em;">Read more about Anthropology and Data Science</a>
+      <p><a href="https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb">🔗 Read more about Anthropology and Data Science</a></p>
+
     </td>
-    <td class="image" style="border: none; text-align: center;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Profile GIF" style="max-width: 100%; height: auto;">
+
+    <td style="border: none; vertical-align: top; width: 40%; text-align: center;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" 
+           alt="Profile GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" style="border: none; text-align: center;">
+    <td colspan="2" style="border: none; text-align: left; padding-top: 20px;">
       <p>¡Hola! Soy <strong>María Carolina González Bernal</strong>, <strong>Científica de Datos</strong> apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en <strong>antropología y administración pública</strong>, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.</p>
 
       <p>Actualmente estudio la <strong>Maestría en Ciencia de Datos, Big Data y Analítica de Negocios</strong> en la <strong>Universidad Complutense de Madrid</strong>, mientras sigo fortaleciendo mis conocimientos en <strong>aprendizaje automático, series temporales y procesamiento de lenguaje natural (NLP)</strong>.</p>
@@ -31,6 +35,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## Skills & Technologies  
