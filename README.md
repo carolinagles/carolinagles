@@ -78,10 +78,8 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 
 </details>
 
-## Proyectos de Ciencia de Datos
-
 <details closed>
-<summary>🔍 Haz clic para explorar mi trabajo</summary>
+<summary>🔍Proyectos de Ciencia de Datos</summary>
 
 | Proyecto                                                                                                                                                      | Descripción                                                                                                  | Enfoque                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
