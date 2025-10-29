@@ -59,7 +59,7 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 
 ## Data Science Projects  
 
-<details closed>
+<details open>
 <summary>🔍 Explore my work</summary>
 
 | Project                                                                                                                                                | Description                                                                                            |  Focus                                      |
@@ -96,3 +96,19 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 | [ Predicción de Éxito en Videojuegos](https://github.com/carolinagles/datascience/blob/main/6.I_Python_and_Software_Engineering/games_es.ipynb)                   | Identifiqué factores clave que influyen en las ventas de videojuegos.                                           | **EDA & Modelado Predictivo**                      |
 
 </details>
+<h3>🎓 Certifications</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><strong>Elements of AI</strong> – University of Helsinki (Dec 2024)</li>
+  <li><strong>Python for Data Science, AI & Development</strong> – IBM / Coursera (Jul 2023)</li>
+  <li><strong>Google Data Analytics</strong> – Google / Coursera (Jul 2021)</li>
+</ul>
+
+
+<h3>🌍 Languages</h3>
+<table>
+  <tr>
+    <td align="center"><strong>🇬🇧 English: B2+</strong></td>
+    <td align="center"><strong>🇩🇪 German: B1+ (in progress)</strong></td>
+    <td align="center"><strong>🇲🇽 Spanish: Native</strong></td>
+  </tr>
+</table>
