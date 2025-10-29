@@ -40,7 +40,6 @@ Aparte del trabajo con datos, me encanta ver tenis, descubrir música nueva, exp
 </details>
 
 ## Tech Stack
-<p>Here are some of the main tools and libraries I use for data analysis, machine learning, and visualization:</p>
 <table style="width: 100%; text-align: center; border: none;">
   <tr>
     <td style="border: none;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
