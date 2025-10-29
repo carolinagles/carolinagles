@@ -10,27 +10,6 @@
     <td width="60%" valign="top">
       
 # Data Scientist | Predictive Modeling | Data Analysis & Visualization
-
-Hi there! I'm **María Carolina** a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
-
-Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
-
-I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
-
-Outside of data work, I love watching tennis, discovering new music, experimenting with cooking, diving into interesting topics, and learning German.
-
-[🔗 Read more about Anthropology and Data Science](https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb)
-
----
-
-¡Hola! Soy **María Carolina**, **Científica de Datos** apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en **antropología y administración pública**, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.
-
-Actualmente estudio la **Maestría en Ciencia de Datos, Big Data y Analítica de Negocios** en la **Universidad Complutense de Madrid**, mientras sigo fortaleciendo mis conocimientos en **aprendizaje automático, series temporales y procesamiento de lenguaje natural (NLP)**.
-
-Disfruto trabajar con **Python, SQL y visualización de datos** para convertir información compleja en ideas claras que impulsen decisiones inteligentes y estrategias creativas. Soy curiosa, analítica y me motiva usar los datos para generar un impacto positivo.
-
-Cuando no estoy analizando datos, me encanta ver tenis, descubrir nueva música, experimentar con la cocina, profundizar en temas interesantes y aprender alemán.
-
     </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" 
