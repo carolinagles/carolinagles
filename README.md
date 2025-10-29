@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Maria%20Carolina&fontSize=90)
 
-<h1 style="text-align: center;">Data Scientist | <a href="https://carolinagles.github.io/mypage/" target="_blank" style="color: black;">Resume</a></h1>
+<h1 style="text-align: center;">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
 
 <table style="border: none; width: 100%; text-align: center;">
     <tr>
