@@ -10,9 +10,28 @@
 
 </div>
 
-## I'm a **Data Scientist** with a unique background in **anthropology and public administration**, bringing a human-centered approach to data analysis and machine learning. I'm passionate about uncovering the stories hidden within data and transforming complex information into actionable insights that drive meaningful decisions.
+<h1 align="center">Data Scientist | Predictive Modeling | Data Analysis & Visualization</h1>
 
-**Currently:** Pursuing my Master's in **Data Science, Big Data & Business Analytics** at **Complutense University of Madrid**
+Hi there! I'm **María Carolina González Bernal** — a **Data Scientist** passionate about uncovering stories hidden in data. My background in **anthropology and public administration** allows me to combine technical expertise with a deep understanding of human behavior.
+
+Currently, I'm pursuing my **Master's in Data Science, Big Data & Business Analytics** at the **Complutense University of Madrid**, while expanding my skills in **machine learning, time series forecasting, and natural language processing (NLP)**.
+
+I enjoy using **Python, SQL, and data visualization** to transform raw data into meaningful insights that drive smarter decisions and creative solutions. Curious by nature and analytical by training, I aim to use data to create a positive impact.
+
+When I'm not analyzing datasets, you'll find me learning new AI techniques, exploring social trends through data, or connecting technology with human behavior.
+
+[🔗 Read more about Anthropology and Data Science](https://github.com/carolinagles/carolinagles/blob/main/anthropology_and_data_science.ipynb)
+
+---
+
+¡Hola! Soy **María Carolina González Bernal**, **Científica de Datos** apasionada por descubrir las historias que viven dentro de los datos. Gracias a mi formación en **antropología y administración pública**, combino el análisis técnico con una mirada profunda hacia el comportamiento humano.
+
+Actualmente estudio la **Maestría en Ciencia de Datos, Big Data y Analítica de Negocios** en la **Universidad Complutense de Madrid**, mientras sigo fortaleciendo mis conocimientos en **aprendizaje automático, series temporales y procesamiento de lenguaje natural (NLP)**.
+
+Disfruto trabajar con **Python, SQL y visualización de datos** para convertir información compleja en ideas claras que impulsen decisiones inteligentes y estrategias creativas. Soy curiosa, analítica y me motiva usar los datos para generar un impacto positivo.
+
+Cuando no estoy analizando datos, probablemente estoy aprendiendo algo nuevo sobre inteligencia artificial, explorando tendencias sociales o conectando la tecnología con el comportamiento humano.
+
 ## Skills & Technologies  
 <table style="width: 100%; text-align: center; border: none;">
     <tr>
